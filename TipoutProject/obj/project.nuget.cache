@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdvS62Zh2k6x880fxeCZKi7dKZcBr+3MNpyej9cczoTkXqnz3g4mmZl7CVmBneMit/XArC9TSlzG/2DWbpFugQ==",
+  "success": true,
+  "projectFilePath": "/home/matt/Projects/TipoutAPI/TipoutProject/TipoutProject.csproj",
+  "expectedPackageFiles": [
+    "/home/matt/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/matt/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5A5AA5FA-7DAD-46D0-B6B6-8AF60C3B44B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipOutAPI/Controllers/TipController.cs">
+    <Files>
+      <File FileName="TipoutProject/TipModel.cs" Line="1" Column="1" />
+      <File FileName="TipOutAPI/Controllers/AppLoginController.cs" Line="26" Column="10" />
+      <File FileName="TipOutAPI/Controllers/CrudController.cs" Line="1" Column="1" />
+      <File FileName="TipOutAPI/Controllers/TipController.cs" Line="1" Column="1" />
+      <File FileName="TipOutAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipoutAPI" expanded="True">
+            <Node name="TipOutAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TipController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TipoutProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TipOutAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TipoutProject FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

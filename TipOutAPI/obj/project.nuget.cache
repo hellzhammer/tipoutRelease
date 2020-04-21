@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw2taYL83TgweIT9Zsto33Z7K7ySWsK9KfWitV+Tb+kd5J09wbgyS9BA2qu7T+O4as4HR+vmYGTT3pfkWukyYA==",
+  "success": true,
+  "projectFilePath": "/home/matt/Projects/TipoutAPI/TipOutAPI/TipOutAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/matt/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.3/microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
+    "/home/matt/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.5.0/microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/microsoft.identitymodel.logging/5.5.0/microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/microsoft.identitymodel.protocols/5.5.0/microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/5.5.0/microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/microsoft.identitymodel.tokens/5.5.0/microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "/home/matt/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/matt/.nuget/packages/system.identitymodel.tokens.jwt/5.5.0/system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

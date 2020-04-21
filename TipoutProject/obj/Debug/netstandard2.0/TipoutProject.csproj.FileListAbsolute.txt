@@ -1,0 +1,9 @@
+/home/matt/Projects/TipoutAPI/TipoutProject/bin/Debug/netstandard2.0/TipoutProject.deps.json
+/home/matt/Projects/TipoutAPI/TipoutProject/bin/Debug/netstandard2.0/TipoutProject.dll
+/home/matt/Projects/TipoutAPI/TipoutProject/bin/Debug/netstandard2.0/TipoutProject.pdb
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.csprojAssemblyReference.cache
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.csproj.CoreCompileInputs.cache
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.AssemblyInfoInputs.cache
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.AssemblyInfo.cs
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.dll
+/home/matt/Projects/TipoutAPI/TipoutProject/obj/Debug/netstandard2.0/TipoutProject.pdb
