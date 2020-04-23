@@ -1,6 +1,7 @@
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/appsettings.json
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/user/matt.json
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/TipOutAPI
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/TipOutAPI.deps.json
 /home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/TipOutAPI.runtimeconfig.json
@@ -29,4 +30,3 @@
 /home/matt/Projects/TipoutAPI/TipOutAPI/obj/Debug/netcoreapp3.1/TipOutAPI.dll
 /home/matt/Projects/TipoutAPI/TipOutAPI/obj/Debug/netcoreapp3.1/TipOutAPI.pdb
 /home/matt/Projects/TipoutAPI/TipOutAPI/obj/Debug/netcoreapp3.1/TipOutAPI.genruntimeconfig.cache
-/home/matt/Projects/TipoutAPI/TipOutAPI/bin/Debug/netcoreapp3.1/user/matt.json
